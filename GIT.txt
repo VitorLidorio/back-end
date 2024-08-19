@@ -1,0 +1,11 @@
+git status
+
+git add .
+
+git status
+
+git commit -m "Adiciona Exercício X"
+
+git log
+
+git push origin master
