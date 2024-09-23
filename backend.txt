@@ -3,3 +3,5 @@ ls - Quais arquivos tem na pasta ou quais pastas tem
 clear - Limpa a tela
 gitlab.com/professor-rvenson/backend-2024-2
 git pull - obs: precisa estar na pasta do diretório
+
+.\mvnw.cmd spring-boot rodar aplicação
